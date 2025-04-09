@@ -1,0 +1,14 @@
+C:\Users\sriva\source\repos\LAB10\LAB10\bin\Debug\net8.0\LAB10.exe
+C:\Users\sriva\source\repos\LAB10\LAB10\bin\Debug\net8.0\LAB10.deps.json
+C:\Users\sriva\source\repos\LAB10\LAB10\bin\Debug\net8.0\LAB10.runtimeconfig.json
+C:\Users\sriva\source\repos\LAB10\LAB10\bin\Debug\net8.0\LAB10.dll
+C:\Users\sriva\source\repos\LAB10\LAB10\bin\Debug\net8.0\LAB10.pdb
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\LAB10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\LAB10.AssemblyInfoInputs.cache
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\LAB10.AssemblyInfo.cs
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\LAB10.csproj.CoreCompileInputs.cache
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\LAB10.dll
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\refint\LAB10.dll
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\LAB10.pdb
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\LAB10.genruntimeconfig.cache
+C:\Users\sriva\source\repos\LAB10\LAB10\obj\Debug\net8.0\ref\LAB10.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sriva\\source\\repos\\LAB10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A64154-DAC0-47B0-A0EB-1C6D5D4100D0}|LAB10\\LAB10.csproj|c:\\users\\sriva\\source\\repos\\lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A64154-DAC0-47B0-A0EB-1C6D5D4100D0}|LAB10\\LAB10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sriva\\source\\repos\\LAB10\\LAB10\\Program.cs",
+              "RelativeDocumentMoniker": "LAB10\\Program.cs",
+              "ToolTip": "C:\\Users\\sriva\\source\\repos\\LAB10\\LAB10\\Program.cs",
+              "RelativeToolTip": "LAB10\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:20:34.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

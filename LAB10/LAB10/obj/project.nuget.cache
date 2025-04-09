@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBL/x1v2Sdg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sriva\\source\\repos\\LAB10\\LAB10\\LAB10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sriva\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.14\\microsoft.dotnet.ilcompiler.8.0.14.nupkg.sha512",
+    "C:\\Users\\sriva\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
+    "C:\\Users\\sriva\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.14\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
