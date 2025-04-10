@@ -1,0 +1,9 @@
+Project Name,Package Name,Type Name,LCOM1,LCOM2,LCOM3,LCOM4,LCOM5,YALCOM,High_LCOM1,High_LCOM5
+java,org.springframework.samples.petclinic.model,Person,4.0,2.0,2.0,2.0,0.6666666666666666,0.5,False,True
+java,org.springframework.samples.petclinic.vet,Vet,6.0,6.0,4.0,1.0,1.0,0.0,False,True
+java,org.springframework.samples.petclinic.owner,PetController,40.0,25.0,6.0,5.0,0.6,0.2727272727272727,True,False
+java,org.springframework.samples.petclinic.owner,PetValidator,1.0,0.0,2.0,2.0,1.0,1.0,False,True
+java,org.springframework.samples.petclinic.owner,Owner,69.0,60.0,7.0,2.0,0.875,0.1538461538461538,True,True
+java,org.springframework.samples.petclinic.owner,Visit,6.0,2.0,2.0,2.0,0.625,0.4,False,True
+java,org.springframework.samples.petclinic.owner,OwnerController,51.0,36.0,7.0,5.0,0.6363636363636364,0.25,True,True
+java,org.springframework.samples.petclinic.owner,Pet,13.0,11.0,4.0,3.0,0.8666666666666666,0.5,True,True
